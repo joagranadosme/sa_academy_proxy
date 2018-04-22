@@ -1,3 +1,3 @@
 # sa_academy_proxy
 
-Proxy for ms_academy
+Proxy for ms_academy.
